@@ -1,6 +1,8 @@
 # Ecosvery
 
 ![alt text](image.png)
+<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/c68b2913-5739-4763-bf3a-2f712f8b4cb0" />
+
 
 > Bringing the IUCN Red List to life through interactive exploration
 
